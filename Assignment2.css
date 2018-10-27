@@ -1,0 +1,47 @@
+.header1 {
+  font-size:300%;
+}
+.header2 {
+  color:red;
+}
+.image1 {
+  position:relative;
+  left:200px;
+}
+.image2 {
+  position:relative;
+  Left:200px;
+}
+.text1 {
+  clear:both;
+  text-transform: capitalize;
+}
+.text2 {
+  font-family: arial, sans-serif;
+}
+.link1 {
+  position:fixed;
+}
+.nested p{
+  font-weight: bold;
+}
+.l1, .l3, .l5 {
+  color:blue;
+}
+.l2, .l4, .l6 {
+  color:green;
+}
+.box {
+  border: black 2px;
+  border-style: solid;
+  outline-style: solid;
+  outline-color: red;
+  margin-top:10px;
+  margin-right:10%;
+  margin-bottom:10px;
+  margin-left:10%;
+  padding-top:20px;
+  padding-right:20%;
+  padding-bottom:20px;
+  padding-left:20%;
+}
